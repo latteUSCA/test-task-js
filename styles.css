@@ -1,0 +1,18 @@
+#input-text {
+	display: block;
+	resize: none;
+	width: 300px;
+	height: 150px;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+
+#decrypt-btn {
+	cursor: pointer;
+	background-color: gray;
+	padding: 7px 30px;
+	border: 0;
+	color: white;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
