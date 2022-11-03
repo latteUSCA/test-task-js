@@ -1,6 +1,6 @@
 const textArea = document.getElementById('input-text');
 const decryptButton = document.getElementById('decrypt-btn');
-const answerArea = document.getElementById('answer-area');
+const answerArea = document.getElementById('answer-text');
 
 function aliceDecrypt(message) {
   const decryptedMsg = [message[0]];
